@@ -1,4 +1,4 @@
-# Analysing-unicorn-companies
+# Analysing unicorn companies: A Datacamp project
 
 Project Description:
 
